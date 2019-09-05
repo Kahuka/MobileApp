@@ -2333,11 +2333,17 @@ namespace HelloWorld
 			// aapt resource value: 0x7f080033
 			public const int CTRL = 2131230771;
 			
+			// aapt resource value: 0x7f0800ae
+			public const int EsimeneTekst = 2131230894;
+			
 			// aapt resource value: 0x7f080034
 			public const int FUNCTION = 2131230772;
 			
 			// aapt resource value: 0x7f080035
 			public const int META = 2131230773;
+			
+			// aapt resource value: 0x7f0800af
+			public const int Nupp = 2131230895;
 			
 			// aapt resource value: 0x7f080036
 			public const int SHIFT = 2131230774;
@@ -2396,8 +2402,8 @@ namespace HelloWorld
 			// aapt resource value: 0x7f08005c
 			public const int action_mode_close_button = 2131230812;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int action_settings = 2131230897;
+			// aapt resource value: 0x7f0800b3
+			public const int action_settings = 2131230899;
 			
 			// aapt resource value: 0x7f08009d
 			public const int action_text = 2131230877;
@@ -2594,14 +2600,14 @@ namespace HelloWorld
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int masked = 2131230896;
+			// aapt resource value: 0x7f0800b2
+			public const int masked = 2131230898;
 			
 			// aapt resource value: 0x7f0800a1
 			public const int media_actions = 2131230881;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int message = 2131230894;
+			// aapt resource value: 0x7f0800b0
+			public const int message = 2131230896;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2852,8 +2858,8 @@ namespace HelloWorld
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800af
-			public const int visible = 2131230895;
+			// aapt resource value: 0x7f0800b1
+			public const int visible = 2131230897;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3089,19 +3095,22 @@ namespace HelloWorld
 			public const int notification_template_part_time = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int select_dialog_item_material = 2130968633;
+			public const int secondlayout = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int select_dialog_multichoice_material = 2130968634;
+			public const int select_dialog_item_material = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int select_dialog_singlechoice_material = 2130968635;
+			public const int select_dialog_multichoice_material = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int support_simple_spinner_dropdown_item = 2130968636;
+			public const int select_dialog_singlechoice_material = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int tooltip = 2130968637;
+			public const int support_simple_spinner_dropdown_item = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int tooltip = 2130968638;
 			
 			static Layout()
 			{
